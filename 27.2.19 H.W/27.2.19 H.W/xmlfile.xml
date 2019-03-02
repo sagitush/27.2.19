@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Camp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>1</id>
+  <Latitude>40</Latitude>
+  <Longitude>50</Longitude>
+  <NumberOfPeople>50</NumberOfPeople>
+  <NumberOfTents>25</NumberOfTents>
+  <NumberOfFleshLights>50</NumberOfFleshLights>
+</Camp>
